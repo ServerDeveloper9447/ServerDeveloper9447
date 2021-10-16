@@ -1,6 +1,6 @@
 ### Hi there, I'm ServerDeveloper9447 aka [Soumalyaplayz][youtube] aka Soumalya Ghosh👋
 
-[![Website](https://img.shields.io/website?label=CraftBlur-Website&style=for-the-badge&url=https://craftblur.glitch.me)](https://craftblur.glitch.me)
+[![Website](https://img.shields.io/website?label=my-website&style=for-the-badge&url=https://duck.is-a.dev)](https://duck.is-a.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Soumalyaplayz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FServerDeveloper9447&screen_name=ServerDeveloper9447)
 
 ## I'm a 15 year old teen with coding skills.
@@ -13,7 +13,6 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -28,6 +27,5 @@
 
 </details>
 
-[website]: https://craftblur.glitch.me
-[youtube]: https://www.youtube.com/channel/UCSV9QJs064GA4o_qMzykDMQ
+[website]: https://duck.is-a.dev
 [twitter]: https://twitter.com/Soumalyaplayz
