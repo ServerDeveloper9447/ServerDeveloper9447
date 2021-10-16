@@ -1,4 +1,4 @@
-### Hi there, I'm ServerDeveloper9447 aka [Soumalyaplayz][youtube] aka Soumalya Ghosh👋
+### Hi there, I'm ServerDeveloper9447 aka Duck Dev aka Soumalya Ghosh👋
 
 [![Website](https://img.shields.io/website?label=my-website&style=for-the-badge&url=https://duck.is-a.dev)](https://duck.is-a.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Soumalyaplayz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FServerDeveloper9447&screen_name=ServerDeveloper9447)
