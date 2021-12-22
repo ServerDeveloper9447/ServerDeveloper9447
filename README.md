@@ -1,9 +1,9 @@
-### Hi there, I'm ServerDeveloper9447 aka Duck Dev aka Soumalya Ghosh👋
+## Hi there, I'm Server Developer#9447 aka Duck Dev aka Soumalya Ghosh👋
 
 [![Website](https://img.shields.io/website?label=my-website&style=for-the-badge&url=https://duck.is-a.dev)](https://duck.is-a.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Soumalyaplayz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FServerDeveloper9447&screen_name=ServerDeveloper9447)
 
-## I'm a 15 year old teen with coding skills.
+<h2 align="center">I'm a 15 year old teen with coding skills.</h2>
 
 - 🌱 I’m currently learning Discord.js
 - 👯 I’m looking for Devs in a Project
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 <br />
