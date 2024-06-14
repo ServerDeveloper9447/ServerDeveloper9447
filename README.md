@@ -2,6 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Soumalyaplayz?color=1da1f2&style=for-the-badge)](https://twitter.com/Soumalyaplayz)
 
+<pre>
+░       ░░░  ░░░░  ░░░      ░░░  ░░░░  ░░░░░░░░       ░░░        ░░  ░░░░  ░
+▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒  ▒▒▒▒▒▒▒▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒  ▒
+▓  ▓▓▓▓  ▓▓  ▓▓▓▓  ▓▓  ▓▓▓▓▓▓▓▓     ▓▓▓▓▓▓▓▓▓▓▓  ▓▓▓▓  ▓▓      ▓▓▓▓▓  ▓▓  ▓▓
+█  ████  ██  ████  ██  ████  ██  ███  █████████  ████  ██  ██████████    ███
+█       ████      ████      ███  ████  ████████       ███        █████  ████                                                                      
+</pre>
 
 ### Connect with me:
 
