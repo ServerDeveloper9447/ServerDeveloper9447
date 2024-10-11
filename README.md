@@ -1,32 +1,22 @@
-## Hi there, I'm Server Developer aka Duck Dev aka Soumalya Ghosh👋
+# Welcome Visitor, I'm Soumalya Ghosh! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Soumalyaplayz?color=1da1f2&style=for-the-badge)](https://twitter.com/Soumalyaplayz)
+I'm a passionate developer with a focus on **Node.js**. I love building innovative projects and learning new technologies.<br>
+**[Visit my website](https://duck.is-a.dev)**
 
-<pre>
-░       ░░░  ░░░░  ░░░      ░░░  ░░░░  ░░░░░░░░       ░░░        ░░  ░░░░  ░
-▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒  ▒▒  ▒▒▒  ▒▒▒▒▒▒▒▒▒  ▒▒▒▒  ▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒  ▒
-▓  ▓▓▓▓  ▓▓  ▓▓▓▓  ▓▓  ▓▓▓▓▓▓▓▓     ▓▓▓▓▓▓▓▓▓▓▓  ▓▓▓▓  ▓▓      ▓▓▓▓▓  ▓▓  ▓▓
-█  ████  ██  ████  ██  ████  ██  ███  █████████  ████  ██  ██████████    ███
-█       ████      ████      ███  ████  ████████       ███        █████  ████                                                                      
-</pre>
+## 🔧 Technologies & Tools
 
-### Connect with me:
+- **Languages I know almost everything of**: JavaScript, TypeScript, Node.js
+- **Languages I know the basics of**: Golang, C, C++, Java, Python, SQL
+- **Tools**: Git, VSCode, IntelliJ, npm, yarn, pnpm, Bun, MongoDB
+- **Frameworks**: Express, React, Next.js
 
-[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+## 📈 GitHub Stats
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ServerDeveloper9447&show_icons=true&theme=radical)
 
-<br />
-<br />
+## 📫 How to reach me
 
----
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Soumalyaplayz" height="30" width="40" />](https://x.com/Soumalyaplayz)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumalya-ghosh-0a0bb8274" height="30" width="40" />](https://www.linkedin.com/in/soumalya-ghosh-0a0bb8274/)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ServerDeveloper9447's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ServerDeveloper9447&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://duck.is-a.dev
-[twitter]: https://twitter.com/Soumalyaplayz
+Thanks for stopping by!
