@@ -10,10 +10,6 @@ I'm a passionate developer with a focus on **Node.js**. I love building innovati
 - **Tools**: Git, VSCode, IntelliJ, npm, yarn, pnpm, Bun, MongoDB
 - **Frameworks**: Express, React, Next.js
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ServerDeveloper9447&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Soumalyaplayz" height="30" width="40" />](https://x.com/Soumalyaplayz)
