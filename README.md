@@ -7,8 +7,8 @@ I'm a passionate developer with a focus on **Node.js**. I love building innovati
 
 - **Languages I know almost everything of**: JavaScript, TypeScript, Node.js
 - **Languages I know the basics of**: Golang, C, C++, Java, Python, SQL
-- **Tools**: Git, VSCode, IntelliJ, npm, yarn, pnpm, Bun, MongoDB
-- **Frameworks**: Express, React, Next.js
+- **Tools**: Git, VSCode, IntelliJ, WebStorm, npm, yarn, pnpm, Bun, Deno, MongoDB
+- **Frameworks**: Express, React, Next.js, Expo
 
 ## 📫 How to reach me
 
