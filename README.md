@@ -1,6 +1,6 @@
 # Welcome Visitor, I'm Soumalya Ghosh! 👋
 
-I'm a passionate developer with a focus on **Node.js**. I love building innovative projects and learning new technologies.<br>
+I'm a passionate developer with a focus on **Node.js** and **Golang**. I love building innovative projects and learning new technologies.<br>
 **[Visit my website](https://duck.is-a.dev)**
 
 ## 🔧 Technologies & Tools
