@@ -6,7 +6,7 @@ I'm a passionate developer with a focus on **Node.js** and **Golang**. I love bu
 ## 🔧 Technologies & Tools
 
 - **Languages I know almost everything of**: JavaScript, TypeScript, Node.js
-- **Languages I know the basics of**: Golang, C, C++, Java, Python, SQL
+- **Languages I know the basics of**: Golang, C, C++, Java, Python, SQL, Rust
 - **Tools**: Git, VSCode, IntelliJ, WebStorm, npm, yarn, pnpm, Bun, Deno, MongoDB
 - **Frameworks**: Express, React, Next.js, Expo, Fyne
 
