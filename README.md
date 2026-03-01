@@ -43,6 +43,8 @@
 </div>
 
 <div align="center">
-  <img src="https://grs9447.vercel.app/api?username=ServerDeveloper9447&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&border_color=30363D&hide_border=true" width="48%" />
-  <img src="https://grs9447.vercel.app/api/top-langs/?username=ServerDeveloper9447&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9&border_color=30363D&hide_border=true" width="37%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ServerDeveloper9447&theme=github_dark">
+  <img src="https://grs9447.vercel.app/api?username=ServerDeveloper9447&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9&border_color=30363D&hide_border=true" width="50%" /><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ServerDeveloper9447&theme=github_dark" width="35%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ServerDeveloper9447&theme=github_dark" width="35%">
 </div>
