@@ -29,10 +29,10 @@
 | Designation | Technologies |
 | :--- | :--- |
 | **Mastery** | <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py" alt="JavaScript, TypeScript, Node.js, Python" /> |
-| **Proficiency** | <img src="https://skillicons.dev/icons?i=golang,c,cpp,java,rust" alt="Go, C, C++, Java, Python, Rust" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=express,react,nextjs" alt="Express, React, Next.js" /> |
+| **Proficiency** | <img src="https://skillicons.dev/icons?i=go,c,cpp,java,rust,latex" alt="Go, C, C++, Java, Python, Rust, LaTeX" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=express,react,nextjs,tauri" alt="Express, React, Next.js, Tauri" /> |
 | **Databases & Runtimes**| <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,bun,deno" alt="MongoDB, SQL, Bun, Deno" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,git" alt="VSCode, IntelliJ, WebStorm, Git" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,idea,git,docker" alt="VSCode, IntelliJ, WebStorm, Git, Docker" /> |
 
 </div>
 
