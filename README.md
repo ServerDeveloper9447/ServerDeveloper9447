@@ -28,11 +28,11 @@
 
 | Designation | Technologies |
 | :--- | :--- |
-| **Mastery** | <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py" alt="JavaScript, TypeScript, Node.js, Python" /> |
+| **Mastery** | <img src="https://skillicons.dev/icons?i=js,ts,py" alt="JavaScript, TypeScript, Node.js, Python" /> |
 | **Proficiency** | <img src="https://skillicons.dev/icons?i=go,c,cpp,java,rust,latex" alt="Go, C, C++, Java, Python, Rust, LaTeX" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=express,react,nextjs,tauri" alt="Express, React, Next.js, Tauri" /> |
-| **Databases & Runtimes**| <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,bun,deno" alt="MongoDB, SQL, Bun, Deno" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,idea,git,docker" alt="VSCode, IntelliJ, WebStorm, Git, Docker" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=express,flask,react,nextjs,tauri" alt="Express, Flask, React, Next.js, Tauri" /> |
+| **Databases and Runtimes**| <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,nodejs,bun,deno" alt="MongoDB, PostgreSQL, MySQL, SQLite, NodeJS, Bun, Deno" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,git,docker,postman" alt="VSCode, Android Studio, IntelliJ, WebStorm, Git, Docker, Postman" /> |
 
 </div>
 
