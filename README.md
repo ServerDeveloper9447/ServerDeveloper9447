@@ -4,13 +4,22 @@
 
 <div align="center">
   <a href="https://duck.is-a.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Web&logoColor=white&color=000000&labelColor=111111" alt="Portfolio" />
+    <img height="50" width="50" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png?raw=true" alt="Portfolio" />
   </a>
   <a href="https://x.com/Soumalyaplayz">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&color=000000&labelColor=111111" alt="X" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+  </a>
+  <a href="https://instagram.com/duckdev.soumalya">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/ServerDeveloper9447/">
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/10eeefb4-d7c2-4ec9-af93-93d88fcf3c25" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/duckdev9447">
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f967f1cf-fcd2-4263-9811-8a5ee7f887d7" />
   </a>
   <a href="https://www.linkedin.com/in/soumalya-ghosh-0a0bb8274/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5&labelColor=111111" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
 
