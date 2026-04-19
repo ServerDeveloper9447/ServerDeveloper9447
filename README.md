@@ -4,22 +4,22 @@
 
 <div align="center">
   <a href="https://duck.is-a.dev">
-    <img height="50" width="50" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png?raw=true" alt="Portfolio" />
+    <img height="48" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png?raw=true" alt="Portfolio" style="vertical-align:middle" />
   </a>
   <a href="https://x.com/Soumalyaplayz">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X" style="vertical-align:middle" />
   </a>
   <a href="https://instagram.com/duckdev.soumalya">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" style="vertical-align:middle" />
   </a>
   <a href="https://leetcode.com/u/ServerDeveloper9447/">
-    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/10eeefb4-d7c2-4ec9-af93-93d88fcf3c25" />
+    <img height="48" alt="LeetCode" src="https://github.com/user-attachments/assets/10eeefb4-d7c2-4ec9-af93-93d88fcf3c25" style="vertical-align:middle" />
   </a>
   <a href="https://www.hackerrank.com/profile/duckdev9447">
-    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f967f1cf-fcd2-4263-9811-8a5ee7f887d7" />
+    <img height="48" alt="HackerRank" src="https://github.com/user-attachments/assets/f967f1cf-fcd2-4263-9811-8a5ee7f887d7" style="vertical-align:middle" />
   </a>
   <a href="https://www.linkedin.com/in/soumalya-ghosh-0a0bb8274/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" style="vertical-align:middle" />
   </a>
 </div>
 
